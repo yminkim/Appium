@@ -33,7 +33,7 @@ public class DialTest {
 		
 		WebElement d1 = driver.findElementById("com.google.android.dialer:id/one");
 		WebElement d2 = driver.findElementById("com.google.android.dialer:id/two");
-		WebElement d3 = driver.findElementById("com.google.android.dialer:id/three");
+		WebElement d3 = driver.findElementById("com.google.android.dialer:id/three"); 
 		WebElement d4 = driver.findElementById("com.google.android.dialer:id/four");
 		WebElement d5 = driver.findElementById("com.google.android.dialer:id/five");
 		WebElement d6 = driver.findElementById("com.google.android.dialer:id/six");
