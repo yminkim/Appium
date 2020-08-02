@@ -36,3 +36,34 @@ public class jebal {
 	}
 
 }
+
+
+/*
+기본 셋업 방법
+[이클립스]
+1. 환경변수 세팅(이건 구글/유튜브 참고..)
+2. 이클립스 실행
+3. new 프로젝트 생성
+4. 프로젝트 파일 우클릭 > properties > Java Build Path > Libraries
+5. Add External JARs... 선택 후 아래 jar 파일 추가
+ 5-1) selenium-server-standalone-2.53.0
+ 5-2) java-client-3.2.0
+ 5-3) commons-lang3-3.11
+ 5-4) selenium-java-3.141.59
+6. Apply and Close
+[애뮬레이터]
+7. Android Studio에서 애뮬레이터 실행(AVD Manager)
+[애뮬레티어 뷰어]
+8. C:\Users\user\AppData\Local\Android\Sdk\tools\bin > uiautomatorviewer(애뮬 뷰어)
+[앱피움]
+9. cmd에서 appium 입력 및 appium 클라이언트 실행
+
+
+이제 이클립스에서 클래스를 추가하고 디바이스 정보를 입력해준 뒤 스크립트를 작성하면
+앱피움 서버를 통해 등록된 애뮬레이터가 스크립트를 수행
+
+ps.계속적으로 에러가 발생하거나 그런다면 작업관리자 > 세부정보에서 
+node.js와 appium을 완전히 종료한 후 재실행 해볼 것.
+
+그럼 오늘도 화이팅!
+*/
