@@ -31,7 +31,7 @@ public class jebal {
 		
 		driver.findElementById("com.android.calculator2:id/op_add").click();
 		
-		WebElement three = driver.findElementById("com.android.calculator2:id/digit_3");
+		WebElement three = driver.findElementById("com.android.calculator2:id/digit_3"); 
 		three.click();
 		driver.findElementById("com.android.calculator2:id/eq").click();
 		
