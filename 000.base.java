@@ -75,4 +75,4 @@ appActivity
 https://www.youtube.com/watch?v=EOPRT8Z6fpQ&list=PLUDwpEzHYYLsx_2JFNBMITjHqTnuszhb_&index=11
  ㄴ 위 코드를 공부한 유튜브 
 
-*/
+*/ 
