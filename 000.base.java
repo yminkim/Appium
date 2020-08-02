@@ -65,5 +65,14 @@ public class jebal {
 ps.계속적으로 에러가 발생하거나 그런다면 작업관리자 > 세부정보에서 
 node.js와 appium을 완전히 종료한 후 재실행 해볼 것.
 
++ 애뮬레이터에 apk info 라는 어플을 설치해야 .
+appPackage
+appActivity
+의 정보를 확인할 수 있음
+
+
 그럼 오늘도 화이팅!
+https://www.youtube.com/watch?v=EOPRT8Z6fpQ&list=PLUDwpEzHYYLsx_2JFNBMITjHqTnuszhb_&index=11
+ ㄴ 위 코드를 공부한 유튜브 
+
 */
